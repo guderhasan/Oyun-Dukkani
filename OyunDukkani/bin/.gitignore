@@ -1,0 +1,16 @@
+/Campaign.class
+/CampaignManager.class
+/Customer.class
+/CustomerManager.class
+/Discount.class
+/Game.class
+/GameManager.class
+/ICampaignManager.class
+/ICampaignService.class
+/ICustomerCheckService.class
+/ICustomerManager.class
+/IEntity.class
+/IGameManager.class
+/Main.class
+/MernisServiceAdapter.class
+/tr/
